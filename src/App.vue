@@ -133,7 +133,7 @@ export default {
       this.setRightImgInfo(this.$refs.headImg)
     },
     headImgLoadError () {
-      this.headImg = 'https://cdn.leoao.com/head-img-528/5_%E7%94%BB%E6%9D%BF%201.png'
+      this.headImg = 'https://cdn.leoao.com/h5/bouncy.jpg'
     },
     getSnapshoot (base64) {
       this.template.forEach(v => {
@@ -142,7 +142,7 @@ export default {
     }
   },
   async created () {
-    this.headImg = this.query.src || 'https://cdn.leoao.com/head-img-528/5_%E7%94%BB%E6%9D%BF%201.png'
+    this.headImg = this.query.src || 'https://cdn.leoao.com/h5/bouncy.jpg'
   }
 }
 </script>
