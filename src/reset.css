@@ -1,0 +1,28 @@
+body{
+  margin:0;
+  padding:0;
+  font-family: 'PingFang SC', 'STHeitiSC-Light', 'Helvetica-Light','Microsoft yahei', arial, sans-serif;
+  font-size:12px;
+}
+html {
+  padding: 0;
+  margin: 0;
+}
+ul{
+  padding:0;
+  margin:0;
+  list-style: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+  margin:0;
+}
+input, button, a, textarea, b, i, span, div {
+  -webkit-tap-highlight-color:transparent;
+}
+div,section {
+  -webkit-overflow-scrolling: touch;
+  user-select: none;
+}
+a{
+  text-decoration: none;
+}

@@ -1,8 +1,14 @@
 import Vue from 'vue'
-import App from './App.vue'
+import App from './app.vue'
 
-Vue.config.productionTip = false
+import './reset.css'
+import './style.less'
+import 'flex.css'
+
+document.documentElement.style.fontSize = (document.documentElement.clientWidth / 750) * 200 + 'px'
+document.body.style.fontSize = '.14rem'
 
 new Vue({
-  render: h => h(App),
-}).$mount('#app')
+  el: '#app',
+  render: h => h(App)
+})
