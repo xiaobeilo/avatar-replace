@@ -1174,6 +1174,11 @@ ajv@^6.1.0, ajv@^6.10.2, ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
+alloyfinger@^0.1.16:
+  version "0.1.16"
+  resolved "https://registry.yarnpkg.com/alloyfinger/-/alloyfinger-0.1.16.tgz#8d5d46073cf1fedba5f446e666bc4b3925b8b8b5"
+  integrity sha512-AfsLALs929WQsjSk1pbysoiVU3bgm/4k1wdZDtMQ7uI7b8XweqCCnUiBYqqdp8uPZ1fBq/+LCJhgUlhd90FssQ==
+
 alphanum-sort@^1.0.0:
   version "1.0.2"
   resolved "https://registry.npm.taobao.org/alphanum-sort/download/alphanum-sort-1.0.2.tgz#97a1119649b211ad33691d9f9f486a8ec9fbe0a3"
@@ -2142,6 +2147,11 @@ core-js@^2.6.5:
   version "2.6.9"
   resolved "https://registry.npm.taobao.org/core-js/download/core-js-2.6.9.tgz#6b4b214620c834152e179323727fc19741b084f2"
   integrity sha1-a0shRiDINBUuF5Mjcn/Bl0GwhPI=
+
+core-js@^2.6.9:
+  version "2.6.11"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.11.tgz#38831469f9922bded8ee21c9dc46985e0399308c"
+  integrity sha512-5wjnpaT/3dV+XB4borEsnAYQchn00XSgTAWKDkEqv+K8KevjbzmofK6hfJ9TZIlpj2N0xQpazy7PiRQiWHqzWg==
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
@@ -3141,6 +3151,11 @@ find-up@^3.0.0:
   integrity sha1-SRafHXmTQwZG2mHsxa41XCHJe3M=
   dependencies:
     locate-path "^3.0.0"
+
+flex.css@^1.1.7:
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/flex.css/-/flex.css-1.1.7.tgz#fd5942eb106d2b25bb3634ddd10b9497af1f3bac"
+  integrity sha1-/VlC6xBtKyW7NjTd0QuUl68fO6w=
 
 flush-write-stream@^1.0.0:
   version "1.1.1"
@@ -7444,9 +7459,9 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.3"
-  resolved "https://registry.npm.taobao.org/websocket-extensions/download/websocket-extensions-0.1.3.tgz#5d2ff22977003ec687a4b87073dfbbac146ccf29"
-  integrity sha1-XS/yKXcAPsaHpLhwc9+7rBRszyk=
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
+  integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
 
 which-module@^2.0.0:
   version "2.0.0"
