@@ -1174,6 +1174,11 @@ ajv@^6.1.0, ajv@^6.10.2, ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
+alloyfinger@^0.1.16:
+  version "0.1.16"
+  resolved "https://registry.yarnpkg.com/alloyfinger/-/alloyfinger-0.1.16.tgz#8d5d46073cf1fedba5f446e666bc4b3925b8b8b5"
+  integrity sha512-AfsLALs929WQsjSk1pbysoiVU3bgm/4k1wdZDtMQ7uI7b8XweqCCnUiBYqqdp8uPZ1fBq/+LCJhgUlhd90FssQ==
+
 alphanum-sort@^1.0.0:
   version "1.0.2"
   resolved "https://registry.npm.taobao.org/alphanum-sort/download/alphanum-sort-1.0.2.tgz#97a1119649b211ad33691d9f9f486a8ec9fbe0a3"
@@ -2142,6 +2147,11 @@ core-js@^2.6.5:
   version "2.6.9"
   resolved "https://registry.npm.taobao.org/core-js/download/core-js-2.6.9.tgz#6b4b214620c834152e179323727fc19741b084f2"
   integrity sha1-a0shRiDINBUuF5Mjcn/Bl0GwhPI=
+
+core-js@^2.6.9:
+  version "2.6.11"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.11.tgz#38831469f9922bded8ee21c9dc46985e0399308c"
+  integrity sha512-5wjnpaT/3dV+XB4borEsnAYQchn00XSgTAWKDkEqv+K8KevjbzmofK6hfJ9TZIlpj2N0xQpazy7PiRQiWHqzWg==
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
@@ -3142,6 +3152,11 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
+flex.css@^1.1.7:
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/flex.css/-/flex.css-1.1.7.tgz#fd5942eb106d2b25bb3634ddd10b9497af1f3bac"
+  integrity sha1-/VlC6xBtKyW7NjTd0QuUl68fO6w=
+
 flush-write-stream@^1.0.0:
   version "1.1.1"
   resolved "https://registry.npm.taobao.org/flush-write-stream/download/flush-write-stream-1.1.1.tgz#8dd7d873a1babc207d94ead0c2e0e44276ebf2e8"
@@ -3485,9 +3500,9 @@ hex-color-regex@^1.1.0:
   integrity sha1-TAb8y0YC/iYCs8k9+C1+fb8aio4=
 
 highlight.js@^9.6.0:
-  version "9.15.10"
-  resolved "https://registry.npm.taobao.org/highlight.js/download/highlight.js-9.15.10.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fhighlight.js%2Fdownload%2Fhighlight.js-9.15.10.tgz#7b18ed75c90348c045eef9ed08ca1319a2219ad2"
-  integrity sha1-exjtdckDSMBF7vntCMoTGaIhmtI=
+  version "9.18.5"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.18.5.tgz#d18a359867f378c138d6819edfc2a8acd5f29825"
+  integrity sha512-a5bFyofd/BHCX52/8i8uJkjr9DYwXIPnM/plwI6W7ezItLGqzt7X2G2nXuYSfsIJdkwwj/g9DG1LkcGJI/dDoA==
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
